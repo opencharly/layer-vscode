@@ -1,7 +1,5 @@
-version: 2026.232.0520
 vscode:
     candy:
-        version: 2026.155.1458
         description: |
             VS Code is installed and launchable as /usr/bin/code on every distro
             The candy installs Microsoft's Visual Studio Code by two paths that
